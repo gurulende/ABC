@@ -1,0 +1,111 @@
+{"vehicles":[
+  {
+    "id":1,
+    "image":"https://www.carlelo.com/source/Toyota-Corolla-Cross-Facelift-Top-5-Things-to-Know-2.jpg",
+    "name":"Toyota Corolla",
+    "price":200000,
+    "mileage":15,
+    "color":"White",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Automatic",
+    "description":"A reliable family car"
+  },
+  {
+    "id":2,
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10789/1705388477954/front-left-side-47.jpg",
+    "name":"Maruti XUV",
+    "price":22000,
+    "mileage":20,
+    "color":"black",
+    "seats":7,
+    "fuel":"Disel",
+    "gear":"Automatic",
+    "description":"A reliable family car"
+  },
+  {
+  "id":3,
+    "image":"https://parkplus-bkt-img.parkplus.io/production/chariot_staging/public/frontleftside47jpgimage_20230808190657351265.jpg",
+    "name":"Tata Harrier",
+    "price":170000,
+    "mileage":15,
+    "color":"Red",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Manual",
+    "description":"A reliable family car"
+  },
+  {
+    "id":4,
+    "image":"https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/i-series/ix/ix50/Banner-desktop.png/jcr:content/renditions/cq5dam.resized.img.1680.large.time1710832306635.png",
+    "name":"BMW Ix",
+    "price":3500000,
+    "mileage":100,
+    "color":"White",
+    "seats":5,
+    "fuel":"Electric",
+    "gear":"Automatic",
+    "description":"A reliable family car"
+  },
+  {
+    "id":5,
+    "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80",
+    "name":"Maruti fronx",
+    "price":70000,
+    "mileage":18,
+    "color":"White",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Automatic",
+    "description":"A reliable family car"
+  },
+  {
+    "id":6,
+    "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+    "name":"Maruti Brezza",
+    "price":120000,
+    "mileage":18,
+    "color":"black",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Manual",
+    "description":"A reliable family car"
+  },
+  {
+    "id":7,
+    "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+    "name": "Mahindra XUV 700",
+    "price":120000,
+    "mileage":18,
+    "color":"black",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Manual",
+    "description":"A reliable family car"
+  },
+  {
+    "id":8,
+    "image":"https://s7ap1.scene7.com/is/image/tatamotors/CosmicGold-right?$VH-708-500-D$&fit=crop&fmt=webp-alpha",
+    "name": "Tata Safari",
+    "price":2200000,
+    "mileage":18,
+    "color":"black",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Manual",
+    "description":"A reliable family car"
+  },
+  {
+    "id":9,
+    "image":"https://s7ap1.scene7.com/is/image/tatamotors/twilight-purple-right?$VH-708-500-D$&fit=crop&fmt=webp-alpha",
+    "name": "Tata Nexon",
+    "price":1200000,
+    "mileage":20,
+    "color":"black",
+    "seats":5,
+    "fuel":"Petrol",
+    "gear":"Manual",
+    "description":"A reliable family car"
+  }
+
+]}
